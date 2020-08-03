@@ -2,7 +2,7 @@
 Welcome to Tiny Framework's documentation!
 ==========================================
 
-Components:
+Components !!!:
 
 .. toctree::
     :maxdepth: 2
