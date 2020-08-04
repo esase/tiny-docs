@@ -8,4 +8,5 @@ Components :
     :maxdepth: 2
 
     tiny-http/docs/index
+    tiny-router/docs/index
 
