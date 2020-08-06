@@ -4,3 +4,6 @@
 [submodule "source/tiny-router"]
 	path = source/tiny-router
 	url = https://github.com/esase/tiny-router.git
+[submodule "source/tiny-service-manager"]
+	path = source/tiny-service-manager
+	url = https://github.com/esase/tiny-service-manager
