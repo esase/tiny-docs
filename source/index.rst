@@ -14,4 +14,5 @@ The framework's  primary domain is: small projects or micro services.
     tiny-http/docs/index
     tiny-router/docs/index
     tiny-service-manager/docs/index
+    tiny-event-manager/docs/index
 

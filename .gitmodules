@@ -7,3 +7,6 @@
 [submodule "source/tiny-service-manager"]
 	path = source/tiny-service-manager
 	url = https://github.com/esase/tiny-service-manager
+[submodule "source/tiny-event-manager"]
+	path = source/tiny-event-manager
+	url = https://github.com/esase/tiny-event-manager
