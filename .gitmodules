@@ -10,3 +10,6 @@
 [submodule "source/tiny-event-manager"]
 	path = source/tiny-event-manager
 	url = https://github.com/esase/tiny-event-manager
+[submodule "source/tiny-view"]
+	path = source/tiny-view
+	url = https://github.com/esase/tiny-view.git
