@@ -2,8 +2,8 @@
 Welcome to Tiny Framework's documentation!
 ==========================================
 
-We are not inventing neither a new `Zend Framework` nor `Symphony`, we only need to have a set of very small and
-powerful packages with a clean structure which may be combined together to get a powerful web application, without deep relations.
+We are not inventing neither a new `Zend Framework` nor `Symphony`, we only want to have a set of very small and
+powerful packages with a clean structure which may be combined together to get a powerful web application within a short time, without deep relations.
 The framework's  primary domain it's: small web projects or micro services.
 
 .. toctree::
