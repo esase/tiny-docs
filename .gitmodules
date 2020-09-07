@@ -13,3 +13,6 @@
 [submodule "source/tiny-view"]
 	path = source/tiny-view
 	url = https://github.com/esase/tiny-view.git
+[submodule "source/tiny-skeleton"]
+	path = source/tiny-skeleton
+	url = https://github.com/esase/tiny-skeleton
